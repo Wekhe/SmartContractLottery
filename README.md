@@ -18,8 +18,8 @@
 ## Quickstart
 
 ```
-git clone 
-cd 
+git clone https://github.com/Wekhe/SmartContractLottery.git
+cd SmartContractLottery
 yarn
 ```
 
