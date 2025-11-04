@@ -7,7 +7,6 @@
 
 
 
-
 # Hardhat Smartcontract Lottery (Raffle)
 
 
